@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion planning | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/tag/motion-planning/</link>
+      <atom:link href="https://tichakorn832.github.io/tag/motion-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motion planning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Motion planning</title>
+      <link>https://tichakorn832.github.io/tag/motion-planning/</link>
+    </image>
+    
+    <item>
+      <title>Abstraction-Based Multi-Vehicle Command and Control</title>
+      <link>https://tichakorn832.github.io/project/planning-systems/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/planning-systems/</guid>
+      <description>&lt;p&gt;This work introduces an encapsulation approach to path planning for multi-vehicle control that permits other decision processes to work with simple, spatially-abstracted domain models, and partially or wholly ignore obstacles, observation uncertainty and vehicle dynamics. Application to multi-vehicle command and control has been considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planning with Conflicting Specifications</title>
+      <link>https://tichakorn832.github.io/project/planning-conflicting-specifications/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/planning-conflicting-specifications/</guid>
+      <description>&lt;p&gt;Autonomous systems may be subject to several requirements. Consider, as an example, autonomous vehicles that need to follow the road rules. Often, these rules cannot be simultaneously satisfied. For instance, when encoutering a vehicle that is (improperly) parked next to the solid line, an autonomous vehicle may need to violate the lane keeping rule (which prohibits the vehicle from crossing solid lane boundary) or the obstacle clearance rule (which requires the vehicle to keep some safety gap when passing a parked vehicle). Another example is the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Trolley_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trolley problem&lt;/a&gt; where autonomous systems need to choose which safety requirements to violate. More complications arise when taking into account uncertainties, e.g., in perception, prediction, control, etc.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to develop planning and decision-making algorithms for systems that are subject to multiple, potentially conflicting objectives. These objectives may be represented by a combination of cost functions (e.g., control efforts) and temporal logic formulas (e.g., rules of the road), with associated violation metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

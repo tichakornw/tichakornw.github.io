@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybrid systems | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/tag/hybrid-systems/</link>
+      <atom:link href="https://tichakorn832.github.io/tag/hybrid-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hybrid systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Hybrid systems</title>
+      <link>https://tichakorn832.github.io/tag/hybrid-systems/</link>
+    </image>
+    
+    <item>
+      <title>DARPA Urban Challenge 2007</title>
+      <link>https://tichakorn832.github.io/project/darpa-urban-challenge/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/darpa-urban-challenge/</guid>
+      <description>&lt;p&gt;This project involves building an autonomous ground vehicle capable of maneuvering a 60 mile course in a mock urban environment in less than 6 hours. As the coordinator of the Systems team, my contribution to this project is the development of a new software architecture for distributed goal and contingency management which is the main part of the mission management subsystem. I have also implemented the decision making logic of the planning module.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sm&#34; id=&#34;figure-alice-in-the-2007-darpa-urban-challenge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-duc_huaef21ced083e51a4dc13eda5d05f018f_360779_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Alice in the 2007 DARPA Urban Challenge&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-duc_huaef21ced083e51a4dc13eda5d05f018f_360779_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;1071&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Alice in the 2007 DARPA Urban Challenge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sm&#34; id=&#34;figure-site-visit&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-site_huc06d5c3b9581a85bad4aab7bd4d4fa53_100758_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Site visit&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-site_huc06d5c3b9581a85bad4aab7bd4d4fa53_100758_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;902&#34; height=&#34;600&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Site visit
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/center&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1eZdc1hsBkU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Formal Methods for Design and Verification of Embedded Control Systems</title>
+      <link>https://tichakorn832.github.io/project/formal-methods/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/formal-methods/</guid>
+      <description>&lt;p&gt;The design of reliable embedded control systems inherits the difficulties involved in designing both control systems and distributed (concurrent) computing systems. Design bugs in these systems may arise from the unforeseen interactions among the computing, communication and control subsystems. Motivated by the difficulties of finding this type of design bugs, this project focuses on developing mathematical frameworks, based on formal methods, to facilitate the design and analysis of such embedded systems. This work incorporates methodology from computer science and control, including model checking, theorem proving, synthesis of digital designs, reachability analysis, Lyapunov-type methods and receding horizon control. Various applications have been considered, including autonomy, vehicle management and multi-target tracking.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3HMOa-UsSPc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal Logic Planning (TuLiP) Toolbox</title>
+      <link>https://tichakorn832.github.io/project/tulip/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/tulip/</guid>
+      <description>&lt;p&gt;The Temporal Logic Planning (TuLiP) Toolbox is a Python-based software toolbox for the synthesis of embedded control software that is provably correct with respect to an expressive subset of linear temporal logic (LTL) specifications. TuLiP combines routines for (1) finite state abstraction of control systems, (2) digital design synthesis from LTL specifications, and (3) receding horizon planning. The underlying digital design synthesis routine treats the environment as adversary; hence, the resulting controller is guaranteed to be correct for any admissible environment profile. TuLiP applies the receding horizon framework, allowing the synthesis problem to be broken into a set of smaller problems, and consequently alleviating the computational complexity of the synthesis procedure, while preserving the correctness guarantee.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specifications | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/tag/specifications/</link>
+      <atom:link href="https://tichakorn832.github.io/tag/specifications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Specifications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Specifications</title>
+      <link>https://tichakorn832.github.io/tag/specifications/</link>
+    </image>
+    
+    <item>
+      <title>Formal Specifications of Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/project/formal-specifications/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/formal-specifications/</guid>
+      <description>&lt;p&gt;A specification for a system describes its admissible behaviors and formalizes its properties. Many existing design and verification efforts, particularly those based on formal methods, assume the availability of such specifications. However, this assumption has been proved to be a major problem of its own, as witnessed in many CPS applications that integrate autonomy. The lack of precise specifications is a significant impediment towards formal methods realizing their full potential in this domain.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to provide theory, methods, and tools to derive, analyze, and refine specifications for systems subject to regulatory requirements. Our approach integrates formal methods, learning-based approaches, and game-theoretic frameworks, and utilize complementary sources of information, namely the textual information from the regulatory requirements and the demonstrations, taking into account their imperfection such as ambiguity, incompleteness, labeling errors, and uncertainties.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

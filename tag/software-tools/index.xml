@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software tools | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/tag/software-tools/</link>
+      <atom:link href="https://tichakorn832.github.io/tag/software-tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software tools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Software tools</title>
+      <link>https://tichakorn832.github.io/tag/software-tools/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Logic Planning (TuLiP) Toolbox</title>
+      <link>https://tichakorn832.github.io/project/tulip/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/tulip/</guid>
+      <description>&lt;p&gt;The Temporal Logic Planning (TuLiP) Toolbox is a Python-based software toolbox for the synthesis of embedded control software that is provably correct with respect to an expressive subset of linear temporal logic (LTL) specifications. TuLiP combines routines for (1) finite state abstraction of control systems, (2) digital design synthesis from LTL specifications, and (3) receding horizon planning. The underlying digital design synthesis routine treats the environment as adversary; hence, the resulting controller is guaranteed to be correct for any admissible environment profile. TuLiP applies the receding horizon framework, allowing the synthesis problem to be broken into a set of smaller problems, and consequently alleviating the computational complexity of the synthesis procedure, while preserving the correctness guarantee.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

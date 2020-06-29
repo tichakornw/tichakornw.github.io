@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calin Belta | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/calin-belta/</link>
+      <atom:link href="https://tichakorn832.github.io/author/calin-belta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Calin Belta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Calin Belta</title>
+      <link>https://tichakorn832.github.io/author/calin-belta/</link>
+    </image>
+    
+    <item>
+      <title>Incremental Controller Synthesis in Probabilistic Environments with Temporal Logic Constraints</title>
+      <link>https://tichakorn832.github.io/publication/ulusoy-2014-incremental/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ulusoy-2014-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental synthesis of control policies for heterogeneous multi-agent systems with linear temporal logic specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental control synthesis in probabilistic environments with Temporal Logic constraints</title>
+      <link>https://tichakorn832.github.io/publication/ulusoy-2012-incremental/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ulusoy-2012-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental temporal logic synthesis of control policies for robots interacting with dynamic agents</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

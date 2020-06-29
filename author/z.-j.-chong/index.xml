@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z. J. Chong | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/z.-j.-chong/</link>
+      <atom:link href="https://tichakorn832.github.io/author/z.-j.-chong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. J. Chong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Z. J. Chong</title>
+      <link>https://tichakorn832.github.io/author/z.-j.-chong/</link>
+    </image>
+    
+    <item>
+      <title>Autonomy for mobility on demand</title>
+      <link>https://tichakorn832.github.io/publication/chong-2012-autonomy-ias/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2012-autonomy-ias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy for mobility on demand</title>
+      <link>https://tichakorn832.github.io/publication/chong-2012-autonomy/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2012-autonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing the infrastructure to assist autonomous vehicles in a mobility on demand context</title>
+      <link>https://tichakorn832.github.io/publication/rebsamen-2012-utilizing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/rebsamen-2012-utilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Navigation in Crowded Campus Environments</title>
+      <link>https://tichakorn832.github.io/publication/chong-2011-autonomous/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2011-autonomous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous personal vehicle for the first- and last-mile transportation services</title>
+      <link>https://tichakorn832.github.io/publication/chong-2011-autonomous-cis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2011-autonomous-cis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

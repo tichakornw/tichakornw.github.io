@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ufuk Topcu | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/ufuk-topcu/</link>
+      <atom:link href="https://tichakorn832.github.io/author/ufuk-topcu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ufuk Topcu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Ufuk Topcu</title>
+      <link>https://tichakorn832.github.io/author/ufuk-topcu/</link>
+    </image>
+    
+    <item>
+      <title>Automata Theory Meets Barrier Certificates: Temporal Logic Verification of Nonlinear Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2016-automata/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2016-automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Control Protocols for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-synthesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding Horizon Temporal Logic Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-receding/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-receding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct, Reactive, High-Level Robot Control</title>
+      <link>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Synthesis of Control Protocols for Smart Camera Networks</title>
+      <link>https://tichakorn832.github.io/publication/ozay-2011-distributed/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ozay-2011-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Synthesis of Embedded Control Software: Application to Vehicle Management Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-formal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TuLiP: A Software Toolbox for Receding Horizon Temporal Logic Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-tu-li-p/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-tu-li-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Synthesis of Robust Embedded Control Software</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-automatic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding Horizon Control for Temporal Logic Specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-receding/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-receding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding horizon temporal logic planning for dynamical systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2009-receding/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2009-receding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

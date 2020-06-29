@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pratik Chaudhari | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/pratik-chaudhari/</link>
+      <atom:link href="https://tichakorn832.github.io/author/pratik-chaudhari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pratik Chaudhari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Pratik Chaudhari</title>
+      <link>https://tichakorn832.github.io/author/pratik-chaudhari/</link>
+    </image>
+    
+    <item>
+      <title>Incremental minimum-violation control synthesis for robots interacting with external agents</title>
+      <link>https://tichakorn832.github.io/publication/chaudhari-2014-incremental/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chaudhari-2014-incremental/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

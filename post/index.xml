@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/post/</link>
+      <atom:link href="https://tichakorn832.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Posts</title>
+      <link>https://tichakorn832.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>

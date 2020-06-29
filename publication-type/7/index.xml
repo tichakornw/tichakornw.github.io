@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/publication-type/7/</link>
+      <atom:link href="https://tichakorn832.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>7</title>
+      <link>https://tichakorn832.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Formal Methods for Design and Verification of Embedded Control Systems: Application to an Autonomous Vehicle</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-formal/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-formal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

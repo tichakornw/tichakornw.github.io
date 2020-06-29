@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangjun Qian | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/xiangjun-qian/</link>
+      <atom:link href="https://tichakorn832.github.io/author/xiangjun-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangjun Qian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Xiangjun Qian</title>
+      <link>https://tichakorn832.github.io/author/xiangjun-qian/</link>
+    </image>
+    
+    <item>
+      <title>Capacity-Aware Backpressure Traffic Signal Control</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

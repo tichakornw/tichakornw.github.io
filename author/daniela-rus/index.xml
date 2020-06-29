@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniela Rus | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/daniela-rus/</link>
+      <atom:link href="https://tichakorn832.github.io/author/daniela-rus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniela Rus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Daniela Rus</title>
+      <link>https://tichakorn832.github.io/author/daniela-rus/</link>
+    </image>
+    
+    <item>
+      <title>Road pricing design based on game theory and multi-agent consensus</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2014-road/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2014-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average strategy fictitious play with application to road pricing</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2013-average/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2013-average/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed consensus in noncooperative congestion games: An application to road pricing</title>
+      <link>https://tichakorn832.github.io/publication/wang-2013-distributed/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wang-2013-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental synthesis of control policies for heterogeneous multi-agent systems with linear temporal logic specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental temporal logic synthesis of control policies for robots interacting with dynamic agents</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Pricing for Spreading Peak Travel: Modeling and Design</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-road/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-road/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

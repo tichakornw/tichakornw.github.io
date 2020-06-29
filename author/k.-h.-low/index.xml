@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. H. Low | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/k.-h.-low/</link>
+      <atom:link href="https://tichakorn832.github.io/author/k.-h.-low/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. H. Low</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>K. H. Low</title>
+      <link>https://tichakorn832.github.io/author/k.-h.-low/</link>
+    </image>
+    
+    <item>
+      <title>Autonomous Navigation in Crowded Campus Environments</title>
+      <link>https://tichakorn832.github.io/publication/chong-2011-autonomous/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2011-autonomous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous personal vehicle for the first- and last-mile transportation services</title>
+      <link>https://tichakorn832.github.io/publication/chong-2011-autonomous-cis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2011-autonomous-cis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

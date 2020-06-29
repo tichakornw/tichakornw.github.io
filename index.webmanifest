@@ -1,0 +1,18 @@
+{
+  "name": "Tichakorn (Nok) Wongpiromsarn",
+  "short_name": "Tichakorn (Nok) Wongpiromsarn",
+  "lang": "en-us",
+  "theme_color": "rgb(0, 136, 204)",
+  "background_color": "rgb(0, 136, 204)",
+  "icons": [{
+    "src": "/images/icon_hu57e41cb6ce08fffb6043026f1540365f_30071_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu57e41cb6ce08fffb6043026f1540365f_30071_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

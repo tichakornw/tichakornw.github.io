@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/publication-type/2/</link>
+      <atom:link href="https://tichakorn832.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>2</title>
+      <link>https://tichakorn832.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automata Theory Meets Barrier Certificates: Temporal Logic Verification of Nonlinear Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2016-automata/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2016-automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity-Aware Backpressure Traffic Signal Control</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back-pressure traffic signal control with unknown routing rates</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2014-back/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2014-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Controller Synthesis in Probabilistic Environments with Temporal Logic Constraints</title>
+      <link>https://tichakorn832.github.io/publication/ulusoy-2014-incremental/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ulusoy-2014-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road pricing design based on game theory and multi-agent consensus</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2014-road/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2014-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Control Protocols for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-synthesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying Cyber-Physical Interactions in Safety-Critical Systems</title>
+      <link>https://tichakorn832.github.io/publication/mitra-2013-verifying/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/mitra-2013-verifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding Horizon Temporal Logic Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-receding/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-receding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Periodically Controlled Hybrid Systems: Application to an Autonomous Vehicle</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-verification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct, Reactive, High-Level Robot Control</title>
+      <link>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/talk/</link>
+      <atom:link href="https://tichakorn832.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://tichakorn832.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>RuleBooks for Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2019-vehical/</link>
+      <pubDate>Thu, 03 Oct 2019 15:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2019-vehical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Specifications of Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2019-automotive-summit/</link>
+      <pubDate>Thu, 20 Jun 2019 13:45:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2019-automotive-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Specifications of Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2019-iavsd/</link>
+      <pubDate>Sun, 28 Apr 2019 14:35:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2019-iavsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design, Verification and Optimization of Embedded Control Systems: Applications in Autonomy, Sensor Networks and Traffic Control</title>
+      <link>https://tichakorn832.github.io/talk/2018-sutd/</link>
+      <pubDate>Wed, 25 Jul 2018 15:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2018-sutd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exciting Journey with Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2016-coding-girls/</link>
+      <pubDate>Tue, 02 Aug 2016 22:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2016-coding-girls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

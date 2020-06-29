@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilio Frazzoli | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/emilio-frazzoli/</link>
+      <atom:link href="https://tichakorn832.github.io/author/emilio-frazzoli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emilio Frazzoli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Emilio Frazzoli</title>
+      <link>https://tichakorn832.github.io/author/emilio-frazzoli/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Multiobjective Shortest Path Problems</title>
+      <link>https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liability, Ethics, and Culture-Aware Behavior Specification using Rulebooks</title>
+      <link>https://tichakorn832.github.io/publication/censi-2019-liability/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/censi-2019-liability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic signal control method and traffic signal controller</title>
+      <link>https://tichakorn832.github.io/publication/patent9601013/</link>
+      <pubDate>Tue, 21 Mar 2017 16:57:57 -0500</pubDate>
+      <guid>https://tichakorn832.github.io/publication/patent9601013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity-Aware Backpressure Traffic Signal Control</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back-pressure traffic signal control with unknown routing rates</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2014-back/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2014-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental minimum-violation control synthesis for robots interacting with external agents</title>
+      <link>https://tichakorn832.github.io/publication/chaudhari-2014-incremental/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chaudhari-2014-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road pricing design based on game theory and multi-agent consensus</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2014-road/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2014-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average strategy fictitious play with application to road pricing</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2013-average/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2013-average/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed consensus in noncooperative congestion games: An application to road pricing</title>
+      <link>https://tichakorn832.github.io/publication/wang-2013-distributed/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wang-2013-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental synthesis of control policies for heterogeneous multi-agent systems with linear temporal logic specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of probabilistic systems under dynamic, partially known environments with temporal logic specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-control/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed traffic signal control for maximum network throughput</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-distributed/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental temporal logic synthesis of control policies for robots interacting with dynamic agents</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Pricing for Spreading Peak Travel: Modeling and Design</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-road/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of provably correct controllers for autonomous vehicles in urban environments</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huan Xu | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/huan-xu/</link>
+      <atom:link href="https://tichakorn832.github.io/author/huan-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huan Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Huan Xu</title>
+      <link>https://tichakorn832.github.io/author/huan-xu/</link>
+    </image>
+    
+    <item>
+      <title>TuLiP: A Software Toolbox for Receding Horizon Temporal Logic Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-tu-li-p/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-tu-li-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

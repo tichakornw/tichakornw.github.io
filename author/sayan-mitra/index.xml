@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sayan Mitra | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/sayan-mitra/</link>
+      <atom:link href="https://tichakorn832.github.io/author/sayan-mitra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sayan Mitra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Sayan Mitra</title>
+      <link>https://tichakorn832.github.io/author/sayan-mitra/</link>
+    </image>
+    
+    <item>
+      <title>Verifying Cyber-Physical Interactions in Safety-Critical Systems</title>
+      <link>https://tichakorn832.github.io/publication/mitra-2013-verifying/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/mitra-2013-verifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Periodically Controlled Hybrid Systems: Application to an Autonomous Vehicle</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-verification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periodically Controlled Hybrid Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2009-periodically/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2009-periodically/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

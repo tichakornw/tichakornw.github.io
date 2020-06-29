@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/</link>
+      <atom:link href="https://tichakorn832.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tichakorn (Nok) Wongpiromsarn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Tichakorn (Nok) Wongpiromsarn</title>
+      <link>https://tichakorn832.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Abstraction-Based Multi-Vehicle Command and Control</title>
+      <link>https://tichakorn832.github.io/project/planning-systems/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/planning-systems/</guid>
+      <description>&lt;p&gt;This work introduces an encapsulation approach to path planning for multi-vehicle control that permits other decision processes to work with simple, spatially-abstracted domain models, and partially or wholly ignore obstacles, observation uncertainty and vehicle dynamics. Application to multi-vehicle command and control has been considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomy in Mobility-on-Demand Systems</title>
+      <link>https://tichakorn832.github.io/project/mobility-on-demand/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/mobility-on-demand/</guid>
+      <description>&lt;p&gt;As the use of private vehicles starts approaching its limits to effectively meet the demand for personal mobility in densely populated cities, mobility-on-demand (MoD) systems emerge as a more economical and sustainable alternative. These systems rely on the deployment of a fleet of vehicles at different stations that are distributed throughout the city. The customers simply have to walk to a station near their origin, pick up a vehicle, drive it to the station near to their destination and drop it off.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to assess and demonstrate the role of autonomy in mobility-on-demand systems through modeling, algorithm development and experimental demonstration. We have instrumented a golf cart and demonstrated basic autonomous driving capabilities, including reliable navigation in a GPS-denied environment and safe interaction with automotive and pedestrian traffic. Unlike most existing autonomous vehicles, our golf cart uses minimal sensing and off-the-shelf components to attain the same level of operational ability while keeping the system economically viable.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/mdsoU4Udi-M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Consensus Approaches to the Assignment Problem</title>
+      <link>https://tichakorn832.github.io/project/consensus/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/consensus/</guid>
+      <description>&lt;p&gt;The assignment problem, also regarded as the bipartite Maximum Weighted Matching problem, is a fundamental problem in combinatorial optimization and provides several applications, especially in the areas of multi-agent coordination, distributed computing and distributed manufacturing. In particular, it has been shown that optimal task and resource allocation can be reduced to an instance of the assignment problem.&lt;/p&gt;
+&lt;p&gt;This work aims at designing a consensus protocol to solve the assignment problem in a completely distributed manner without any central management or global knowledge. The main application of this work is sensor dispatch, an emerging problem in wireless sensor networks where a subset of mobile sensors need to decide how to move in order to optimize certain global objectives while maintaining the coverage ability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DARPA Urban Challenge 2007</title>
+      <link>https://tichakorn832.github.io/project/darpa-urban-challenge/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/darpa-urban-challenge/</guid>
+      <description>&lt;p&gt;This project involves building an autonomous ground vehicle capable of maneuvering a 60 mile course in a mock urban environment in less than 6 hours. As the coordinator of the Systems team, my contribution to this project is the development of a new software architecture for distributed goal and contingency management which is the main part of the mission management subsystem. I have also implemented the decision making logic of the planning module.&lt;/p&gt;
+&lt;center&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sm&#34; id=&#34;figure-alice-in-the-2007-darpa-urban-challenge&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-duc_huaef21ced083e51a4dc13eda5d05f018f_360779_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Alice in the 2007 DARPA Urban Challenge&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-duc_huaef21ced083e51a4dc13eda5d05f018f_360779_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1600&#34; height=&#34;1071&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Alice in the 2007 DARPA Urban Challenge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sm&#34; id=&#34;figure-site-visit&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-site_huc06d5c3b9581a85bad4aab7bd4d4fa53_100758_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Site visit&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://tichakorn832.github.io/project/darpa-urban-challenge/team-site_huc06d5c3b9581a85bad4aab7bd4d4fa53_100758_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;902&#34; height=&#34;600&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Site visit
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/center&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1eZdc1hsBkU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Formal Methods for Design and Verification of Embedded Control Systems</title>
+      <link>https://tichakorn832.github.io/project/formal-methods/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/formal-methods/</guid>
+      <description>&lt;p&gt;The design of reliable embedded control systems inherits the difficulties involved in designing both control systems and distributed (concurrent) computing systems. Design bugs in these systems may arise from the unforeseen interactions among the computing, communication and control subsystems. Motivated by the difficulties of finding this type of design bugs, this project focuses on developing mathematical frameworks, based on formal methods, to facilitate the design and analysis of such embedded systems. This work incorporates methodology from computer science and control, including model checking, theorem proving, synthesis of digital designs, reachability analysis, Lyapunov-type methods and receding horizon control. Various applications have been considered, including autonomy, vehicle management and multi-target tracking.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3HMOa-UsSPc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Formal Specifications of Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/project/formal-specifications/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/formal-specifications/</guid>
+      <description>&lt;p&gt;A specification for a system describes its admissible behaviors and formalizes its properties. Many existing design and verification efforts, particularly those based on formal methods, assume the availability of such specifications. However, this assumption has been proved to be a major problem of its own, as witnessed in many CPS applications that integrate autonomy. The lack of precise specifications is a significant impediment towards formal methods realizing their full potential in this domain.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to provide theory, methods, and tools to derive, analyze, and refine specifications for systems subject to regulatory requirements. Our approach integrates formal methods, learning-based approaches, and game-theoretic frameworks, and utilize complementary sources of information, namely the textual information from the regulatory requirements and the demonstrations, taking into account their imperfection such as ambiguity, incompleteness, labeling errors, and uncertainties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planning with Conflicting Specifications</title>
+      <link>https://tichakorn832.github.io/project/planning-conflicting-specifications/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/planning-conflicting-specifications/</guid>
+      <description>&lt;p&gt;Autonomous systems may be subject to several requirements. Consider, as an example, autonomous vehicles that need to follow the road rules. Often, these rules cannot be simultaneously satisfied. For instance, when encoutering a vehicle that is (improperly) parked next to the solid line, an autonomous vehicle may need to violate the lane keeping rule (which prohibits the vehicle from crossing solid lane boundary) or the obstacle clearance rule (which requires the vehicle to keep some safety gap when passing a parked vehicle). Another example is the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Trolley_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trolley problem&lt;/a&gt; where autonomous systems need to choose which safety requirements to violate. More complications arise when taking into account uncertainties, e.g., in perception, prediction, control, etc.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to develop planning and decision-making algorithms for systems that are subject to multiple, potentially conflicting objectives. These objectives may be represented by a combination of cost functions (e.g., control efforts) and temporal logic formulas (e.g., rules of the road), with associated violation metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time Control and Learning for Sustainable Transportation</title>
+      <link>https://tichakorn832.github.io/project/sustainable-transportation/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/sustainable-transportation/</guid>
+      <description>&lt;p&gt;Traffic congestion causes significant efficiency losses, wasteful energy consumption and excessive air pollution. This problem arises in many urban areas because of the continual growth in motorization and the difficulties in increasing road capacity due to space limitations and budget constraints. As a result, traffic management that aims at maximizing the efficiency and effectiveness of road networks without increasing road capacity becomes increasingly crucial.&lt;/p&gt;
+&lt;p&gt;This project focuses on mechanism design for dynamic pricing and real-time control of traffic signals based on control, communication, optimization and game theory in order to manage traffic flows in an optimal manner and minimize traffic congestion.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Sk-d5-cfkDk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal Logic Planning (TuLiP) Toolbox</title>
+      <link>https://tichakorn832.github.io/project/tulip/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/tulip/</guid>
+      <description>&lt;p&gt;The Temporal Logic Planning (TuLiP) Toolbox is a Python-based software toolbox for the synthesis of embedded control software that is provably correct with respect to an expressive subset of linear temporal logic (LTL) specifications. TuLiP combines routines for (1) finite state abstraction of control systems, (2) digital design synthesis from LTL specifications, and (3) receding horizon planning. The underlying digital design synthesis routine treats the environment as adversary; hence, the resulting controller is guaranteed to be correct for any admissible environment profile. TuLiP applies the receding horizon framework, allowing the synthesis problem to be broken into a set of smaller problems, and consequently alleviating the computational complexity of the synthesis procedure, while preserving the correctness guarantee.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://tichakorn832.github.io/news/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 -0500</pubDate>
+      <guid>https://tichakorn832.github.io/news/</guid>
+      <description>         &lt;p&gt;&lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt; &lt;strong&gt;May 20&lt;/strong&gt;: Our paper on &lt;a href=&#34;https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/&#34;&gt;Hierarchical Multiobjective Shortest Path Problems&lt;/a&gt; is available online on &lt;a href=&#34;http://robotics.cs.rutgers.edu/wafr2020/accepted-papers/&#34;&gt;WAFR 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Apr 20:&lt;/strong&gt; I&amp;rsquo;m giving guest lectures on Minimum Violation Planning and on Rulebooks for the &lt;a href=&#34;https://f1tenth.org/learn.html&#34;&gt;Autonomous Racing&lt;/a&gt; course at University of Pennsylvania.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Mar 20:&lt;/strong&gt; I&amp;rsquo;m giving a talk on Behavior Specifications of Autonomous Vehicles at &lt;a href=&#34;http://www.boun.edu.tr/en_US&#34;&gt;Bogazici University&lt;/a&gt;, Istanbul, Turkey.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Mar 20:&lt;/strong&gt; Richard Murray and I are teaching a short course on &lt;a href=&#34;https://www.cds.caltech.edu/~murray/wiki/index.php?title=EECI-IGSC_2020&#34;&gt;Specification, Design, and Verification for Self-Driving Cars&lt;/a&gt; at &lt;a href=&#34;http://www.yildiz.edu.tr/en/&#34;&gt;Yildiz Technical University&lt;/a&gt;, Istanbul, Turkey. The course is sponsored by &lt;a href=&#34;http://www.eeci-igsc.eu/&#34;&gt;European Embedded Control Institute (EECI) Internataional Graduate School on Control&lt;/a&gt;.&lt;/p&gt;
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Multiobjective Shortest Path Problems</title>
+      <link>https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying a stopping place for an autonomous vehicle</title>
+      <link>https://tichakorn832.github.io/publication/patent10473470/</link>
+      <pubDate>Tue, 12 Nov 2019 16:57:57 -0500</pubDate>
+      <guid>https://tichakorn832.github.io/publication/patent10473470/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RuleBooks for Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2019-vehical/</link>
+      <pubDate>Thu, 03 Oct 2019 15:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2019-vehical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Specifications of Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2019-automotive-summit/</link>
+      <pubDate>Thu, 20 Jun 2019 13:45:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2019-automotive-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Specifications of Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2019-iavsd/</link>
+      <pubDate>Sun, 28 Apr 2019 14:35:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2019-iavsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liability, Ethics, and Culture-Aware Behavior Specification using Rulebooks</title>
+      <link>https://tichakorn832.github.io/publication/censi-2019-liability/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/censi-2019-liability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design, Verification and Optimization of Embedded Control Systems: Applications in Autonomy, Sensor Networks and Traffic Control</title>
+      <link>https://tichakorn832.github.io/talk/2018-sutd/</link>
+      <pubDate>Wed, 25 Jul 2018 15:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2018-sutd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic signal control method and traffic signal controller</title>
+      <link>https://tichakorn832.github.io/publication/patent9601013/</link>
+      <pubDate>Tue, 21 Mar 2017 16:57:57 -0500</pubDate>
+      <guid>https://tichakorn832.github.io/publication/patent9601013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exciting Journey with Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/talk/2016-coding-girls/</link>
+      <pubDate>Tue, 02 Aug 2016 22:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2016-coding-girls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automata Theory Meets Barrier Certificates: Temporal Logic Verification of Nonlinear Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2016-automata/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2016-automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity-Aware Backpressure Traffic Signal Control</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2015-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online horizon selection in receding horizon temporal logic planning</title>
+      <link>https://tichakorn832.github.io/publication/raman-2015-online/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/raman-2015-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back-pressure traffic signal control with unknown routing rates</title>
+      <link>https://tichakorn832.github.io/publication/gregoire-2014-back/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/gregoire-2014-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Controller Synthesis in Probabilistic Environments with Temporal Logic Constraints</title>
+      <link>https://tichakorn832.github.io/publication/ulusoy-2014-incremental/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ulusoy-2014-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental minimum-violation control synthesis for robots interacting with external agents</title>
+      <link>https://tichakorn832.github.io/publication/chaudhari-2014-incremental/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chaudhari-2014-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road pricing design based on game theory and multi-agent consensus</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2014-road/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2014-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average strategy fictitious play with application to road pricing</title>
+      <link>https://tichakorn832.github.io/publication/xiao-2013-average/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/xiao-2013-average/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed consensus in noncooperative congestion games: An application to road pricing</title>
+      <link>https://tichakorn832.github.io/publication/wang-2013-distributed/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wang-2013-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental synthesis of control policies for heterogeneous multi-agent systems with linear temporal logic specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Control Protocols for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2013-synthesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2013-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying Cyber-Physical Interactions in Safety-Critical Systems</title>
+      <link>https://tichakorn832.github.io/publication/mitra-2013-verifying/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/mitra-2013-verifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy for mobility on demand</title>
+      <link>https://tichakorn832.github.io/publication/chong-2012-autonomy-ias/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2012-autonomy-ias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomy for mobility on demand</title>
+      <link>https://tichakorn832.github.io/publication/chong-2012-autonomy/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2012-autonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of probabilistic systems under dynamic, partially known environments with temporal logic specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-control/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed traffic signal control for maximum network throughput</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-distributed/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental control synthesis in probabilistic environments with Temporal Logic constraints</title>
+      <link>https://tichakorn832.github.io/publication/ulusoy-2012-incremental/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ulusoy-2012-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental temporal logic synthesis of control policies for robots interacting with dynamic agents</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding Horizon Temporal Logic Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-receding/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-receding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Pricing for Spreading Peak Travel: Modeling and Design</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-road/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing the infrastructure to assist autonomous vehicles in a mobility on demand context</title>
+      <link>https://tichakorn832.github.io/publication/rebsamen-2012-utilizing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/rebsamen-2012-utilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Periodically Controlled Hybrid Systems: Application to an Autonomous Vehicle</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2012-verification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2012-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Navigation in Crowded Campus Environments</title>
+      <link>https://tichakorn832.github.io/publication/chong-2011-autonomous/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2011-autonomous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous personal vehicle for the first- and last-mile transportation services</title>
+      <link>https://tichakorn832.github.io/publication/chong-2011-autonomous-cis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/chong-2011-autonomous-cis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct, Reactive, High-Level Robot Control</title>
+      <link>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Synthesis of Control Protocols for Smart Camera Networks</title>
+      <link>https://tichakorn832.github.io/publication/ozay-2011-distributed/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ozay-2011-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Synthesis of Embedded Control Software: Application to Vehicle Management Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-formal/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of provably correct controllers for autonomous vehicles in urban environments</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TuLiP: A Software Toolbox for Receding Horizon Temporal Logic Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2011-tu-li-p/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2011-tu-li-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Methods for Design and Verification of Embedded Control Systems: Application to an Autonomous Vehicle</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-formal/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A consensus approach to the assignment problem: Application to mobile sensor dispatch</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-consensus/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-consensus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Synthesis of Robust Embedded Control Software</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-automatic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding Horizon Control for Temporal Logic Specifications</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2010-receding/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2010-receding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periodically Controlled Hybrid Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2009-periodically/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2009-periodically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding horizon temporal logic planning for dynamical systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2009-receding/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2009-receding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Mission and Contingency Management for the DARPA Urban Challenge</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2008-distributed/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2008-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situational Reasoning for Road Driving in an Urban Environment</title>
+      <link>https://tichakorn832.github.io/publication/du-toit-2008-situational/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/du-toit-2008-situational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing, Navigation and Reasoning Technologies for the DARPA Urban Challenge</title>
+      <link>https://tichakorn832.github.io/publication/burdick-2007-sensing/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/burdick-2007-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encapsulated path planning for abstraction-based control of multi-vehicle systems</title>
+      <link>https://tichakorn832.github.io/publication/rao-2006-encapsulated/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/rao-2006-encapsulated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Approaches to Dynamic Refinement in Hierarchical Motion Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2005-two/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2005-two/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

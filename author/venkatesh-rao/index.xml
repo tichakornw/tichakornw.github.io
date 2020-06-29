@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venkatesh Rao | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/venkatesh-rao/</link>
+      <atom:link href="https://tichakorn832.github.io/author/venkatesh-rao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Venkatesh Rao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Venkatesh Rao</title>
+      <link>https://tichakorn832.github.io/author/venkatesh-rao/</link>
+    </image>
+    
+    <item>
+      <title>Two Approaches to Dynamic Refinement in Hierarchical Motion Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2005-two/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2005-two/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

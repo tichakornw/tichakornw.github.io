@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karl Iagnemma | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/karl-iagnemma/</link>
+      <atom:link href="https://tichakorn832.github.io/author/karl-iagnemma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karl Iagnemma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2019 16:57:57 -0500</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Karl Iagnemma</title>
+      <link>https://tichakorn832.github.io/author/karl-iagnemma/</link>
+    </image>
+    
+    <item>
+      <title>Identifying a stopping place for an autonomous vehicle</title>
+      <link>https://tichakorn832.github.io/publication/patent10473470/</link>
+      <pubDate>Tue, 12 Nov 2019 16:57:57 -0500</pubDate>
+      <guid>https://tichakorn832.github.io/publication/patent10473470/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

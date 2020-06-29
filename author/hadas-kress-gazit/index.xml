@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadas Kress-Gazit | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/hadas-kress-gazit/</link>
+      <atom:link href="https://tichakorn832.github.io/author/hadas-kress-gazit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hadas Kress-Gazit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Hadas Kress-Gazit</title>
+      <link>https://tichakorn832.github.io/author/hadas-kress-gazit/</link>
+    </image>
+    
+    <item>
+      <title>Correct, Reactive, High-Level Robot Control</title>
+      <link>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/kress-gazit-2011-correct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
