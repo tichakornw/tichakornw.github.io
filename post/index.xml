@@ -5,12 +5,150 @@
     <link>https://tichakorn832.github.io/post/</link>
       <atom:link href="https://tichakorn832.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 12:24:09 -0500</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Posts</title>
       <link>https://tichakorn832.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>The Journey of Autonomous Vehicles</title>
+      <link>https://tichakorn832.github.io/post/av-journey/</link>
+      <pubDate>Sun, 19 Jul 2020 12:24:09 -0500</pubDate>
+      <guid>https://tichakorn832.github.io/post/av-journey/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Disclaimer: This post is based on my own opinion, which is not necessarily representative of the opinion of my previous and current employers.&lt;/em&gt;&lt;/p&gt;
+&lt;!---
+The history of autonomous vehicles dates back to at least the 1920s when Houdina Radio Control demonstrated a radio-controlled car driving through the streets of New York City.
+--&gt;
+&lt;p&gt;A series of Grand Challenges organized by DARPA in March 2004, October 2005, and November 2007 marked a major milestone in the history of autonomous vehicles as it attracted significant research attention and spurred rapid progress in this field.
+The first two challenges featured a race of autonomous vehicles through a desert with dirt roads, cliffs, ditches, boulders, underpasses, open water, etc., as shown in the video below.
+The vehicles were required to stay within a corridor specified in the &lt;a href=&#39;https://archive.darpa.mil/grandchallenge05/RDDF_Document.pdf&#39;&gt;RDDF (Route Data Definition File)&lt;/a&gt;, which was distributed to the teams 2 hours before the race, and contained a list of waypoint coordinates together with the associated corridor widths and speed limits.
+The corridor was not guaranteed to be obstacle-free.
+Thus, the vehicles had to be able to find a &amp;ldquo;road&amp;rdquo; (i.e., drivable, reasonably flat surface) and avoid obstacles, which were mostly static, with the exception of other autonomous vehicles competing in the race.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/S4Ud7nYRwwQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The third race of the series, the DARPA Urban Challenge, shifted the focus to an urban environment, requiring the vehicles to execute a series of mock military supply missions while obeying California traffic laws, including lane keeping, merging, passing, negotiating intersections, making U-turns, parking, and avoiding obstacles.
+As in the previous two races, the vehicles were fully autonomous.
+No humans were allowed inside the vehicles.
+Any communication to and from the vehicles was also prohibited.
+The only possible intervention was through a &lt;a href=&#39;https://archive.darpa.mil/grandchallenge05/Estop_Guidance.pdf&#39;&gt;wireless emergency stop safety system (E-stop)&lt;/a&gt;, which was operated by DARPA to pause or completely disable the vehicle in case of emergency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The development timeframe:&lt;/strong&gt;
+The Urban Challenge was announced in May 2006.
+The teams had to go through the qualification process, including the site visit (June&amp;ndash;July 2007) and the National Qualification Event (NQE, 26&amp;ndash;31 October 2007) before proceeding to the Urban Challenge Final Event (UFE, 3 November 2007).
+This gave each team about 1 year to implement the &lt;em&gt;Basic Navigation&lt;/em&gt; and &lt;em&gt;Basic Traffic&lt;/em&gt; functionalities required for the site visit as described in the &lt;a href=&#39;https://www.grandchallenge.org/grandchallenge/docs/Technical_Evaluation_Criteria_031607.pdf&#39;&gt;Technical Evaluation Criteria&lt;/a&gt;, after which the team had about 6 more months to implement the advanced functionalities required for both the NQE and the UFE such as navigating obstacle fields, parking lots, and partially blocked intersections, handling road blockages, merging into moving traffic, and performing an evasive maneuver by pulling to the side to avoid head-on collisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The race:&lt;/strong&gt; The specific location (George Air Force Base, Victorville, CA) of the NQE and UFE was kept secret until August 2007, less than 3 months before the NQE.
+Furthermore, the teams did not have access to the site, so it was not possible to build a prior, HD map that most autonomous vehicles these days rely on.&lt;/p&gt;
+&lt;p&gt;DARPA used two file formats to describe a mission: &lt;a href=&#39;https://www.grandchallenge.org/grandchallenge/docs/RNDF_MDF_Formats_031407.pdf&#39;&gt;the Route Network Definition File (RNDF) and the Mission Data File (MDF)&lt;/a&gt;.
+The RNDF was basically a digital street map, which specified accessible road segments and free-travel zones &lt;!--- (i.e., areas within which the vehicles can move freely) --&gt;
+and provided information such as waypoints, checkpoints, parking spots, stop signs, lane widths, lane boundaries, connections between lanes, zone boundaries, and entry and exit points to each zone.
+Although the RNDF was reasonably accurate, it had 3 key limitations.
+First, even though the waypoints were guaranteed to be within their associated lanes, a straight line connecting them might go off road.
+Second, connectivity of waypoints was not guaranteed as the road could be completely or partially blocked.
+Finally, part of the zones might not be drivable.&lt;/p&gt;
+&lt;p&gt;The MDF specified the sequence of checkpoints to be visited by the vehicle as well as the minimum and maximum speed limits for each segment in the RNDF.
+The mission length and complexity varied in different runs.
+In particular, the UFE was split into 3 missions, covering the total of approximately 60 miles, and consisting of interactions with both human-driven vehicles and other autonomous vehicles.
+The objective of the vehicles was to complete the missions as quickly as possible while satisfying all the rules specified in the &lt;a href=&#39;https://www.grandchallenge.org/grandchallenge/docs/Technical_Evaluation_Criteria_031607.pdf&#39;&gt;Technical Evaluation Criteria&lt;/a&gt;.
+Any infraction of the rules could lead to time penalties or disqualification.
+(However, as far as I know, the specific penalty for each violation was not provided before the race.)&lt;/p&gt;
+&lt;p&gt;While the RNDF was provided at least 24 hours in advance, the MDF was given to the team right before each run.
+After receiving the MDF, the team had only 5 minutes to load it and get the vehicle ready in autonomous mode to begin the run.&lt;/p&gt;
+&lt;p&gt;The video below was taken from a camera mounted on Team Caltech&amp;rsquo;s vehicle, Alice, during one of the tests in the NQE and illustrated the maneuvers required by the &lt;em&gt;Basic Navigation&lt;/em&gt; functionality.
+In fact, around the 34th second, Alice was paused as it was heading towards a concrete barrier.
+DARPA then asked the team whether to let her continue the mission, a decision that was very difficult to make without any access to the vehicle&amp;mdash;we did not even know whether the sensors or the computers were still running.
+We decided to take the risk, and Alice successfully completed the mission with quite a bit of difficulty to satisfy the obstacle clearance requirement due to her size.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1eZdc1hsBkU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Key technological development:&lt;/strong&gt;
+&lt;a href=&#39;https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2010.0110&#39;&gt;The article by Campbell et al.&lt;/a&gt; provides a very good description of approaches and challenges faced by different teams (Cornell, Georgia Tech, MIT, and Caltech).
+In summary, most vehicles consisted of 4 main components: sensing, perception (+ localization), planning, and control.
+The key sensors included GPS, IMU, odometry, lidar, radar, and cameras.
+The perception component used the measurements from these sensors to localize the vehicle within the map, detect and track objects and relevant features (e.g., road, lane marking, stop lines, etc.), and create a representation of the world around the vehicle.
+The planning component used this information to compute a trajectory (path + speed) for the vehicle to follow.
+Finally, the control component sent actuation commands (brake, throttle, steering, gear shifting) to keep the vehicle on the trajectory.&lt;/p&gt;
+&lt;p&gt;The 18-month timeframe was quite short for any new technological development, especially as many teams consisted mainly of students, who also had to worry about classes and exams.
+So, the effort was mainly directed towards putting together and extending existing approaches, rather than inventing radically new ones. &lt;!--- (This is quite an over-simplistic statement as it still took a lot of effort to figure out how to get things to work robustly together.) --&gt;
+Perhaps, a key exception to this statement was the Velodyne’s HDL-64E sensor, which was used by 5 out of the 6 vehicles that finished the race, and was an essential technology emerging from the Challenge.
+This spinning lidar and its successors, including the more affordable models with 16 and 32 beams and the high-end models with 128 beams, became a key component of many autonomous vehicles nowadays.&lt;/p&gt;
+&lt;p&gt;While the architectures and algorithms of the perception subsystem varied greatly among different teams, a more common structure was observed in the planning and control subsystems.
+In particular, the planning subsystem was typically decomposed into 3 levels&amp;mdash;the mission planner, the behavioral planner, and the trajectory planner&amp;mdash;although the name and detail of responsibilities and algorithms used in each level varied.
+Roughly, the mission planner computed a high-level route for the vehicle to complete the mission.
+The behavioral planner was responsible for making local decisions (e.g., whether to stay in lane, proceed through an intersection, etc.) and typically implemented as a finite-state machine.
+The trajectory planner then translated the decision into a trajectory for the vehicle to follow, using variations of optimization-based (e.g., MPC) and graph-based (e.g., RRT, PRM) approaches. &lt;!--- with graphs constructed based on variations of RRT and PRM algorithms or directly from RNDF --&gt;
+Most vehicles employed different trajectory planners for different driving situations.
+Finally, the controller was typically based on pure pursuit and PID.
+More details about planning and control algorithms can be found in &lt;a href=&#39;https://arxiv.org/pdf/1604.07446.pdf&#39;&gt;the article by Paden et al.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Major technological challenges:&lt;/strong&gt;
+The Urban Challenge expanded the scientific community&amp;rsquo;s exposure to the complexity of designing safety-critical autonomous systems.
+Not only the challenges associated with individual components (perception, planning, control, contingency management, etc.)
+but also their integration needed to be addressed.
+In particular, subtle design bugs may arise from the unforeseen interactions among different components
+and manifest as undesirable behavior only under a very specific set of conditions,
+making them very hard to catch using simulation and testing.
+For example, consider the following components, which were implemented on Alice:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the path planner, which generated a path for Alice to follow,&lt;/li&gt;
+&lt;li&gt;the safety system, which rapidly decelerated the vehicle when it deviated too much from the planned path and got too close to an obstacle, and&lt;/li&gt;
+&lt;li&gt;the low-level steering controller, which limited the steering rate at low speeds to protect the vehicle steering system.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Each of these functionalities seemed reasonable by itself.
+However, when combined together, they led to an unsafe behavior under a very specific circumstance where
+Alice had to make a tight turn while merging into traffic,
+with a concrete barrier next to the major road.
+In this case, the planned path contained a sharp turn.
+Accelerating from a low speed, the controller was unable to execute the turn closely due to the limited steering rate.
+As a result, Alice deviated from the path and headed towards the concrete barrier; the safety system activated and slowed it down, leading to an even stricter limit on the steering rate.
+This cycle continued, causing Alice to be stuck at the corner of a sharp turn,
+dangerously stuttering in the middle of an intersection.&lt;/p&gt;
+&lt;p&gt;In short, I think the key technical challenges evolved around the following factors:
+uncertainties, complex tasks, and interconnection of computing, communication, and physical components.
+The uncertain and unstructured nature of environments led to an unreasonably large number of test scenarios and drove the question of edge cases.
+The complex interaction of different components caused any change in one component to potentially affect the others in an unexpected way.
+Finally, complex tasks were primarily handled by handcrafted finite state machines,
+which ended up hosting several hacks to handle corner cases encountered during testing.
+In particular, Alice&amp;rsquo;s behavioral planner was initially implemented as a finite state machine with less than 5 states,
+but it quickly turned into 3 interacting finite state machines, each containing more than 20 states,
+making it almost impossible to analyze or debug.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AV industry, key enablers, and challenges:&lt;/strong&gt;
+Google pioneered the AV industry with the Google X&amp;rsquo;s Project Chauffeur (now Waymo) in 2009.
+Several years later, many startups were founded, including Cruise (founded in 2013, acquired by GM in 2016), nuTonomy (founded in 2013, acquired by Aptiv in 2017), Zoox (founded in 2014, acquired by Amazon in 2020), Drive.ai (founded in 2015, acquired by Apple in 2019), Argo AI (founded in 2016), Pony.ai (founded in 2016), and Aurora (founded in 2017), just to name a few.
+&lt;a href=&#39;https://spectrum.ieee.org/transportation/self-driving/surprise-2020-is-not-the-year-for-selfdriving-cars&#39;&gt;Early predictions&lt;/a&gt; indicated that autonomous vehicles would be ready to roam the streets in 2020.&lt;/p&gt;
+&lt;p&gt;The hype of the industry was primarily driven by several technological advances that were not sufficiently mature at the time of the Urban Challenge&amp;mdash;the most notable one being deep learning, which has become a core part of most state-of-the-art object classification and intent prediction algorithms.
+Some companies went further and adopted end-to-end learning that directly maps raw sensor data to vehicle actuation commands.&lt;/p&gt;
+&lt;p&gt;Other relevant technologies include &lt;a href=&#39;https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping&#39;&gt;SLAM (simultaneous localization and mapping)&lt;/a&gt;,
+which is often used to generate a pre-built map and enables accurate map-based localization.
+Advances in optimization-based control, particularly &lt;a href=&#39;https://en.wikipedia.org/wiki/Model_predictive_control&#39;&gt;model predictive control (MPC)&lt;/a&gt;,
+allow real-time computation of control signals with complex nonlinear cost functions.
+New planning algorithms such as &lt;a href=&#39;https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree&#39;&gt;RRT*&lt;/a&gt; provide asymptotic optimality guarantee.
+Finally, &lt;a href=&#39;https://en.wikipedia.org/wiki/Formal_methods&#39;&gt;formal methods&lt;/a&gt; eliminate the need of handcrafted finite state machines and enable complex tasks to be handled in a provably correct way.&lt;/p&gt;
+&lt;p&gt;Many of the aforementioned algorithms have been implemented in open-source software such as
+&lt;a href=&#39;https://www.tensorflow.org/&#39;&gt;TensorFlow&lt;/a&gt;,
+&lt;a href=&#39;https://pytorch.org/&#39;&gt;PyTorch&lt;/a&gt;,
+&lt;a href=&#39;https://www.ros.org/&#39;&gt;ROS&lt;/a&gt;, and
+&lt;a href=&#39;https://ompl.kavrakilab.org/&#39;&gt;OMPL&lt;/a&gt;.
+In fact, one can build an autonomous vehicle out of open-source software,
+and it might already handle most of the &amp;ldquo;nominal&amp;rdquo; scenarios.
+These technological advances greatly simplify the initial phase of building autonomous vehicles,
+making the estimate of their arrival to market overly optimistic.
+(Recall that it took a team of mostly students only a year to make a vehicle drive itself
+for the DARPA Urban Challenge when most of these technologies and open-source software did not even exist.)&lt;/p&gt;
+&lt;p&gt;Unfortunately, the number of off-nominal cases, as well as their complexity, may have been underappreciated.
+Additionally, in many situations, it is not even clear how the vehicle should behave as there are no
+&lt;a href=&#39;https://archive.darpa.mil/grandchallenge/docs/Technical_Evaluation_Criteria_031607.pdf&#39;&gt;precisely defined rules as in the DARPA Urban Challenge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An &lt;a href=&#39;https://workofthefuture.mit.edu/sites/default/files/2020-07/WotF-2020-Research-Brief-Leonard-Mindell-Stayton.pdf&#39;&gt;article from MIT task force&lt;/a&gt; predicts that deployment of fully automated driving systems that have no safety driver onboard will take at least a decade. Additionally, expansion will likely be gradual and will happen region-by-region in specific categories of transportation, resulting in wide variations in availability across the country.&lt;/p&gt;
+&lt;p&gt;I feel extremely privileged to be a part of this exciting journey from its early days.
+Autonomous vehicles, and more generally autonomous systems, will remain an active area of research and new ideas will be needed to bring this journey through the last mile.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
