@@ -5,12 +5,28 @@
     <link>https://tichakorn832.github.io/author/ufuk-topcu/</link>
       <atom:link href="https://tichakorn832.github.io/author/ufuk-topcu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ufuk Topcu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Ufuk Topcu</title>
       <link>https://tichakorn832.github.io/author/ufuk-topcu/</link>
     </image>
+    
+    <item>
+      <title>Minimum-Violation Planning for Autonomous Systems: Theoretical and Practical Considerations</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2021-minimum/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2021-minimum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum-Violation Traffic Management for Urban Air Mobility</title>
+      <link>https://tichakorn832.github.io/publication/bharadwaj-2021-minimum/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/bharadwaj-2021-minimum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automata Theory Meets Barrier Certificates: Temporal Logic Verification of Nonlinear Systems</title>

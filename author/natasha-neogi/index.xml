@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natasha Neogi | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/natasha-neogi/</link>
+      <atom:link href="https://tichakorn832.github.io/author/natasha-neogi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natasha Neogi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Natasha Neogi</title>
+      <link>https://tichakorn832.github.io/author/natasha-neogi/</link>
+    </image>
+    
+    <item>
+      <title>Minimum-Violation Traffic Management for Urban Air Mobility</title>
+      <link>https://tichakorn832.github.io/publication/bharadwaj-2021-minimum/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/bharadwaj-2021-minimum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
