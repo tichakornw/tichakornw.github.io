@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Formal Methods for Control Synthesis of Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/talk/2020-galcit/</link>
+      <pubDate>Fri, 30 Oct 2020 15:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2020-galcit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Methods for Control Synthesis of Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/talk/2020-wpi/</link>
+      <pubDate>Fri, 23 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2020-wpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Journey of Autonomous Vehicles</title>
       <link>https://tichakorn832.github.io/post/av-journey/</link>
       <pubDate>Sun, 19 Jul 2020 12:24:09 -0500</pubDate>
@@ -354,7 +370,10 @@ Autonomous vehicles, and more generally autonomous systems, will remain an activ
       <link>https://tichakorn832.github.io/news/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 -0500</pubDate>
       <guid>https://tichakorn832.github.io/news/</guid>
-      <description>         &lt;p&gt;&lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt; &lt;strong&gt;May 20&lt;/strong&gt;: Our paper on &lt;a href=&#34;https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/&#34;&gt;Hierarchical Multiobjective Shortest Path Problems&lt;/a&gt; is available online on &lt;a href=&#34;http://robotics.cs.rutgers.edu/wafr2020/accepted-papers/&#34;&gt;WAFR 2020&lt;/a&gt;.&lt;/p&gt;
+      <description>         &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Oct 30:&lt;/strong&gt; I&amp;rsquo;m giving talk on Formal Methods for Control Synthesis of Autonomous Systems at the &lt;a href=&#34;https://galcit.caltech.edu/events/88978&#34;&gt;GALCIT Colloquium&lt;/a&gt; at Caltech.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Oct 23:&lt;/strong&gt; I&amp;rsquo;m giving talk on Formal Methods for Control Synthesis of Autonomous Systems at the &lt;a href=&#34;https://www.wpi.edu/news/calendar/events/rbe-colloquium-series-dr-tichakorn-nok-wongpiromsarn-formal-methods-control&#34;&gt;Robotics Engineering Colloquium Series&lt;/a&gt; at WPI.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt; &lt;strong&gt;Sep 24&lt;/strong&gt;: Our paper on &lt;a href=&#34;https://tichakorn832.github.io/publication/wongpiromsarn-2021-minimum/&#34;&gt;Minimum-Violation Planning for Autonomous Systems: Theoretical and Practical Considerations&lt;/a&gt; is available on &lt;a href=&#34;https://arxiv.org/abs/2009.11954&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;far fa-file-alt&#34;&gt;&lt;/i&gt; &lt;strong&gt;May 20&lt;/strong&gt;: Our paper on &lt;a href=&#34;https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/&#34;&gt;Hierarchical Multiobjective Shortest Path Problems&lt;/a&gt; is available online on &lt;a href=&#34;http://robotics.cs.rutgers.edu/wafr2020/accepted-papers/&#34;&gt;WAFR 2020&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Apr 20:&lt;/strong&gt; I&amp;rsquo;m giving guest lectures on Minimum Violation Planning and on Rulebooks for the &lt;a href=&#34;https://f1tenth.org/learn.html&#34;&gt;Autonomous Racing&lt;/a&gt; course at University of Pennsylvania.&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Mar 20:&lt;/strong&gt; I&amp;rsquo;m giving a talk on Behavior Specifications of Autonomous Vehicles at &lt;a href=&#34;http://www.boun.edu.tr/en_US&#34;&gt;Bogazici University&lt;/a&gt;, Istanbul, Turkey.&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher&#34;&gt;&lt;/i&gt; &lt;strong&gt;Mar 20:&lt;/strong&gt; Richard Murray and I are teaching a short course on &lt;a href=&#34;https://www.cds.caltech.edu/~murray/wiki/index.php?title=EECI-IGSC_2020&#34;&gt;Specification, Design, and Verification for Self-Driving Cars&lt;/a&gt; at &lt;a href=&#34;http://www.yildiz.edu.tr/en/&#34;&gt;Yildiz Technical University&lt;/a&gt;, Istanbul, Turkey. The course is sponsored by &lt;a href=&#34;http://www.eeci-igsc.eu/&#34;&gt;European Embedded Control Institute (EECI) Internataional Graduate School on Control&lt;/a&gt;.&lt;/p&gt;
