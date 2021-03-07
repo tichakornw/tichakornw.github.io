@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apurva Badithela | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/apurva-badithela/</link>
+      <atom:link href="https://tichakorn832.github.io/author/apurva-badithela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Apurva Badithela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Apurva Badithela</title>
+      <link>https://tichakorn832.github.io/author/apurva-badithela/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Classification Metrics for Quantitative System-Level Analysis with Temporal Logic Specifications</title>
+      <link>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

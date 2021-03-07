@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Beijbom | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/oscar-beijbom/</link>
+      <atom:link href="https://tichakorn832.github.io/author/oscar-beijbom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscar Beijbom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Oscar Beijbom</title>
+      <link>https://tichakorn832.github.io/author/oscar-beijbom/</link>
+    </image>
+    
+    <item>
+      <title>The Reasonable Crowd: Towards evidence-based and interpretable models of driving behavior</title>
+      <link>https://tichakorn832.github.io/publication/helou-2021-reasonable/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/helou-2021-reasonable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

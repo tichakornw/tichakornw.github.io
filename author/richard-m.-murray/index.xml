@@ -5,12 +5,20 @@
     <link>https://tichakorn832.github.io/author/richard-m.-murray/</link>
       <atom:link href="https://tichakorn832.github.io/author/richard-m.-murray/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard M. Murray</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Richard M. Murray</title>
       <link>https://tichakorn832.github.io/author/richard-m.-murray/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Classification Metrics for Quantitative System-Level Analysis with Temporal Logic Specifications</title>
+      <link>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online horizon selection in receding horizon temporal logic planning</title>
