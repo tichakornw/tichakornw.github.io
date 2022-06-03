@@ -5,7 +5,7 @@
     <link>https://tichakorn832.github.io/tag/motion-planning/</link>
       <atom:link href="https://tichakorn832.github.io/tag/motion-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Motion planning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Motion planning</title>
@@ -13,22 +13,36 @@
     </image>
     
     <item>
-      <title>Abstraction-Based Multi-Vehicle Command and Control</title>
-      <link>https://tichakorn832.github.io/project/planning-systems/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://tichakorn832.github.io/project/planning-systems/</guid>
-      <description>&lt;p&gt;This work introduces an encapsulation approach to path planning for multi-vehicle control that permits other decision processes to work with simple, spatially-abstracted domain models, and partially or wholly ignore obstacles, observation uncertainty and vehicle dynamics. Application to multi-vehicle command and control has been considered.&lt;/p&gt;
+      <title>CAREER: Establishing Correctness of Learning-Enabled Autonomous Systems with Conflicting Requirements (NSF)</title>
+      <link>https://tichakorn832.github.io/project/correctness-autonomy/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/correctness-autonomy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Award Number:&lt;/strong&gt; CNS-2141153&lt;br /&gt;
+&lt;strong&gt;Amount:&lt;/strong&gt; 502,352&lt;br /&gt;
+&lt;strong&gt;Start Date:&lt;/strong&gt; 02/15/2022&lt;br /&gt;
+&lt;strong&gt;End Date:&lt;/strong&gt; 01/31/2027&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Autonomous systems are subject to multiple regulatory requirements due to their safety-critical nature. In general, it is infeasible to guarantee the satisfaction of all requirements under all conditions. In such situations, the system needs to decide how to prioritize among them. Two main factors complicate this decision. First, the priorities among the conflicting requirements may not be fully established. Second, the decision needs to be made under uncertainties arising from both the learning-based components within the system and the unstructured, unpredictable, and non-cooperating nature of the environments. Therefore, establishing the correctness of autonomous systems requires specification languages that capture the unequal importance of the requirements, quantify the violation of each requirement, and incorporate uncertainties faced by the systems.&lt;/p&gt;
+&lt;p&gt;The proposed effort targets a major gap in theoretical foundations and computational tools to enable practical applications of formal methods throughout the development process of autonomous systems that include learning-based components, operate in uncertain environments, and are subject to conflicting requirements with partially established priorities. Its key novelty lies in the development of (1) probabilistic rulebooks, a new specification formalism that captures the tradeoffs between the uncertainty and the degree of violation of the requirements and utilizes such violation risk together with partially established priorities among the requirements to establish a consistent order among the trajectories of the system, (2) minimum-violation control synthesis algorithms that minimize the total violation risk based on the probabilistic rulebooks and allow learning-based functionality to be incorporated in a provably correct manner, and (3) quantitative verification frameworks that utilize statistical analysis of the learning-based components and the environment as well as the probabilistic rulebooks to provide quantitative analysis of the system. Such development will serve as a critical step towards establishing assurance of autonomous systems. This project will validate the theoretical results and algorithms developed under the proposed effort on a small autonomy platform that will also be utilized for educational purposes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Planning with Conflicting Specifications</title>
       <link>https://tichakorn832.github.io/project/planning-conflicting-specifications/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/project/planning-conflicting-specifications/</guid>
       <description>&lt;p&gt;Autonomous systems may be subject to several requirements. Consider, as an example, autonomous vehicles that need to follow the road rules. Often, these rules cannot be simultaneously satisfied. For instance, when encoutering a vehicle that is (improperly) parked next to the solid line, an autonomous vehicle may need to violate the lane keeping rule (which prohibits the vehicle from crossing solid lane boundary) or the obstacle clearance rule (which requires the vehicle to keep some safety gap when passing a parked vehicle). Another example is the 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Trolley_problem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trolley problem&lt;/a&gt; where autonomous systems need to choose which safety requirements to violate. More complications arise when taking into account uncertainties, e.g., in perception, prediction, control, etc.&lt;/p&gt;
 &lt;p&gt;The goal of this project is to develop planning and decision-making algorithms for systems that are subject to multiple, potentially conflicting objectives. These objectives may be represented by a combination of cost functions (e.g., control efforts) and temporal logic formulas (e.g., rules of the road), with associated violation metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstraction-Based Multi-Vehicle Command and Control</title>
+      <link>https://tichakorn832.github.io/project/planning-systems/</link>
+      <pubDate>Sun, 15 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/planning-systems/</guid>
+      <description>&lt;p&gt;This work introduces an encapsulation approach to path planning for multi-vehicle control that permits other decision processes to work with simple, spatially-abstracted domain models, and partially or wholly ignore obstacles, observation uncertainty and vehicle dynamics. Application to multi-vehicle command and control has been considered.&lt;/p&gt;
 </description>
     </item>
     

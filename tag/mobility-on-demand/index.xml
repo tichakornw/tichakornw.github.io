@@ -5,7 +5,7 @@
     <link>https://tichakorn832.github.io/tag/mobility-on-demand/</link>
       <atom:link href="https://tichakorn832.github.io/tag/mobility-on-demand/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobility on demand</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Mobility on demand</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Autonomy in Mobility-on-Demand Systems</title>
       <link>https://tichakorn832.github.io/project/mobility-on-demand/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/project/mobility-on-demand/</guid>
       <description>&lt;p&gt;As the use of private vehicles starts approaching its limits to effectively meet the demand for personal mobility in densely populated cities, mobility-on-demand (MoD) systems emerge as a more economical and sustainable alternative. These systems rely on the deployment of a fleet of vehicles at different stations that are distributed throughout the city. The customers simply have to walk to a station near their origin, pick up a vehicle, drive it to the station near to their destination and drop it off.&lt;/p&gt;
 &lt;p&gt;The goal of this project is to assess and demonstrate the role of autonomy in mobility-on-demand systems through modeling, algorithm development and experimental demonstration. We have instrumented a golf cart and demonstrated basic autonomous driving capabilities, including reliable navigation in a GPS-denied environment and safe interaction with automotive and pedestrian traffic. Unlike most existing autonomous vehicles, our golf cart uses minimal sensing and off-the-shelf components to attain the same level of operational ability while keeping the system economically viable.&lt;/p&gt;

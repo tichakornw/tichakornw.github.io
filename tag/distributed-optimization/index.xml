@@ -5,7 +5,7 @@
     <link>https://tichakorn832.github.io/tag/distributed-optimization/</link>
       <atom:link href="https://tichakorn832.github.io/tag/distributed-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Distributed optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Distributed optimization</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Consensus Approaches to the Assignment Problem</title>
       <link>https://tichakorn832.github.io/project/consensus/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/project/consensus/</guid>
       <description>&lt;p&gt;The assignment problem, also regarded as the bipartite Maximum Weighted Matching problem, is a fundamental problem in combinatorial optimization and provides several applications, especially in the areas of multi-agent coordination, distributed computing and distributed manufacturing. In particular, it has been shown that optimal task and resource allocation can be reduced to an instance of the assignment problem.&lt;/p&gt;
 &lt;p&gt;This work aims at designing a consensus protocol to solve the assignment problem in a completely distributed manner without any central management or global knowledge. The main application of this work is sensor dispatch, an emerging problem in wireless sensor networks where a subset of mobile sensors need to decide how to move in order to optimize certain global objectives while maintaining the coverage ability.&lt;/p&gt;

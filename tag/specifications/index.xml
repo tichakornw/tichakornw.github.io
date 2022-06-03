@@ -5,7 +5,7 @@
     <link>https://tichakorn832.github.io/tag/specifications/</link>
       <atom:link href="https://tichakorn832.github.io/tag/specifications/index.xml" rel="self" type="application/rss+xml" />
     <description>Specifications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Specifications</title>
@@ -13,9 +13,23 @@
     </image>
     
     <item>
+      <title>CAREER: Establishing Correctness of Learning-Enabled Autonomous Systems with Conflicting Requirements (NSF)</title>
+      <link>https://tichakorn832.github.io/project/correctness-autonomy/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/project/correctness-autonomy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Award Number:&lt;/strong&gt; CNS-2141153&lt;br /&gt;
+&lt;strong&gt;Amount:&lt;/strong&gt; 502,352&lt;br /&gt;
+&lt;strong&gt;Start Date:&lt;/strong&gt; 02/15/2022&lt;br /&gt;
+&lt;strong&gt;End Date:&lt;/strong&gt; 01/31/2027&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Autonomous systems are subject to multiple regulatory requirements due to their safety-critical nature. In general, it is infeasible to guarantee the satisfaction of all requirements under all conditions. In such situations, the system needs to decide how to prioritize among them. Two main factors complicate this decision. First, the priorities among the conflicting requirements may not be fully established. Second, the decision needs to be made under uncertainties arising from both the learning-based components within the system and the unstructured, unpredictable, and non-cooperating nature of the environments. Therefore, establishing the correctness of autonomous systems requires specification languages that capture the unequal importance of the requirements, quantify the violation of each requirement, and incorporate uncertainties faced by the systems.&lt;/p&gt;
+&lt;p&gt;The proposed effort targets a major gap in theoretical foundations and computational tools to enable practical applications of formal methods throughout the development process of autonomous systems that include learning-based components, operate in uncertain environments, and are subject to conflicting requirements with partially established priorities. Its key novelty lies in the development of (1) probabilistic rulebooks, a new specification formalism that captures the tradeoffs between the uncertainty and the degree of violation of the requirements and utilizes such violation risk together with partially established priorities among the requirements to establish a consistent order among the trajectories of the system, (2) minimum-violation control synthesis algorithms that minimize the total violation risk based on the probabilistic rulebooks and allow learning-based functionality to be incorporated in a provably correct manner, and (3) quantitative verification frameworks that utilize statistical analysis of the learning-based components and the environment as well as the probabilistic rulebooks to provide quantitative analysis of the system. Such development will serve as a critical step towards establishing assurance of autonomous systems. This project will validate the theoretical results and algorithms developed under the proposed effort on a small autonomy platform that will also be utilized for educational purposes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Formal Specifications of Autonomous Systems</title>
       <link>https://tichakorn832.github.io/project/formal-specifications/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/project/formal-specifications/</guid>
       <description>&lt;p&gt;A specification for a system describes its admissible behaviors and formalizes its properties. Many existing design and verification efforts, particularly those based on formal methods, assume the availability of such specifications. However, this assumption has been proved to be a major problem of its own, as witnessed in many CPS applications that integrate autonomy. The lack of precise specifications is a significant impediment towards formal methods realizing their full potential in this domain.&lt;/p&gt;
 &lt;p&gt;The goal of this project is to provide theory, methods, and tools to derive, analyze, and refine specifications for systems subject to regulatory requirements. Our approach integrates formal methods, learning-based approaches, and game-theoretic frameworks, and utilize complementary sources of information, namely the textual information from the regulatory requirements and the demonstrations, taking into account their imperfection such as ambiguity, incompleteness, labeling errors, and uncertainties.&lt;/p&gt;
