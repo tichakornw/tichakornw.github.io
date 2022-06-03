@@ -5,12 +5,20 @@
     <link>https://tichakorn832.github.io/talk/</link>
       <atom:link href="https://tichakorn832.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 08:40:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://tichakorn832.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Establishing Correctness of Learning-Enabled Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/talk/2022-icra/</link>
+      <pubDate>Fri, 27 May 2022 08:40:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/talk/2022-icra/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Methods for Control Synthesis of Autonomous Systems</title>
