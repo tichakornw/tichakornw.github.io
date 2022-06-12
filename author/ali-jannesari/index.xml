@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Jannesari | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/ali-jannesari/</link>
+      <atom:link href="https://tichakorn832.github.io/author/ali-jannesari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Jannesari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Ali Jannesari</title>
+      <link>https://tichakorn832.github.io/author/ali-jannesari/</link>
+    </image>
+    
+    <item>
+      <title>Temporal Shift Reinforcement Learning</title>
+      <link>https://tichakorn832.github.io/publication/thomas-2022-temporal/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/thomas-2022-temporal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

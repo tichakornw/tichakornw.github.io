@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Design and Evaluation of Object Classifiers for Probabilistic Decision-Making in Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/ullah-2022-design/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/ullah-2022-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Shift Reinforcement Learning</title>
+      <link>https://tichakorn832.github.io/publication/thomas-2022-temporal/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/thomas-2022-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CAREER: Establishing Correctness of Learning-Enabled Autonomous Systems with Conflicting Requirements (NSF)</title>
       <link>https://tichakorn832.github.io/project/correctness-autonomy/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
@@ -32,14 +48,6 @@
 &lt;p&gt;Autonomous systems are subject to multiple regulatory requirements due to their safety-critical nature. In general, it is infeasible to guarantee the satisfaction of all requirements under all conditions. In such situations, the system needs to decide how to prioritize among them. Two main factors complicate this decision. First, the priorities among the conflicting requirements may not be fully established. Second, the decision needs to be made under uncertainties arising from both the learning-based components within the system and the unstructured, unpredictable, and non-cooperating nature of the environments. Therefore, establishing the correctness of autonomous systems requires specification languages that capture the unequal importance of the requirements, quantify the violation of each requirement, and incorporate uncertainties faced by the systems.&lt;/p&gt;
 &lt;p&gt;The proposed effort targets a major gap in theoretical foundations and computational tools to enable practical applications of formal methods throughout the development process of autonomous systems that include learning-based components, operate in uncertain environments, and are subject to conflicting requirements with partially established priorities. Its key novelty lies in the development of (1) probabilistic rulebooks, a new specification formalism that captures the tradeoffs between the uncertainty and the degree of violation of the requirements and utilizes such violation risk together with partially established priorities among the requirements to establish a consistent order among the trajectories of the system, (2) minimum-violation control synthesis algorithms that minimize the total violation risk based on the probabilistic rulebooks and allow learning-based functionality to be incorporated in a provably correct manner, and (3) quantitative verification frameworks that utilize statistical analysis of the learning-based components and the environment as well as the probabilistic rulebooks to provide quantitative analysis of the system. Such development will serve as a critical step towards establishing assurance of autonomous systems. This project will validate the theoretical results and algorithms developed under the proposed effort on a small autonomy platform that will also be utilized for educational purposes.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Design and Evaluation of Object Classifiers for Probabilistic Decision-Making in Autonomous Systems</title>
-      <link>https://tichakorn832.github.io/publication/ullah-2022-design/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://tichakorn832.github.io/publication/ullah-2022-design/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -72,7 +80,7 @@
     </item>
     
     <item>
-      <title>The Reasonable Crowd: Towards evidence-based and interpretable models of driving behavior</title>
+      <title>The Reasonable Crowd: Towards Evidence-Based and Interpretable Models of Driving behavior</title>
       <link>https://tichakorn832.github.io/publication/helou-2021-reasonable/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/publication/helou-2021-reasonable/</guid>
