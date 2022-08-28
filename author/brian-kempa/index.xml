@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Kempa | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/brian-kempa/</link>
+      <atom:link href="https://tichakorn832.github.io/author/brian-kempa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Kempa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Brian Kempa</title>
+      <link>https://tichakorn832.github.io/author/brian-kempa/</link>
+    </image>
+    
+    <item>
+      <title>MLTL Multi-type: A logic to reason over signals of different types</title>
+      <link>https://tichakorn832.github.io/publication/hariharan-2022-mltl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/hariharan-2022-mltl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
