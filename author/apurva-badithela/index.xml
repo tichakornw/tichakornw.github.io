@@ -5,12 +5,20 @@
     <link>https://tichakorn832.github.io/author/apurva-badithela/</link>
       <atom:link href="https://tichakorn832.github.io/author/apurva-badithela/index.xml" rel="self" type="application/rss+xml" />
     <description>Apurva Badithela</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Apurva Badithela</title>
       <link>https://tichakorn832.github.io/author/apurva-badithela/</link>
     </image>
+    
+    <item>
+      <title>Evaluation Metrics for Object Detection for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/badithela-2023-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/badithela-2023-evaluation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leveraging Classification Metrics for Quantitative System-Level Analysis with Temporal Logic Specifications</title>

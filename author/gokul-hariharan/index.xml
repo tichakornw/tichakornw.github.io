@@ -5,12 +5,20 @@
     <link>https://tichakorn832.github.io/author/gokul-hariharan/</link>
       <atom:link href="https://tichakorn832.github.io/author/gokul-hariharan/index.xml" rel="self" type="application/rss+xml" />
     <description>Gokul Hariharan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Gokul Hariharan</title>
       <link>https://tichakorn832.github.io/author/gokul-hariharan/</link>
     </image>
+    
+    <item>
+      <title>Maximum Satisfiability in Mission-time Linear Temporal Logic</title>
+      <link>https://tichakorn832.github.io/publication/hariharan-2023-maximum/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/hariharan-2023-maximum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MLTL Multi-type: A logic to reason over signals of different types</title>

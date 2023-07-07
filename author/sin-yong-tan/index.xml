@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sin Yong Tan | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/sin-yong-tan/</link>
+      <atom:link href="https://tichakorn832.github.io/author/sin-yong-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sin Yong Tan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Sin Yong Tan</title>
+      <link>https://tichakorn832.github.io/author/sin-yong-tan/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing System-level Safety in Autonomous Driving via Feedback Learning</title>
+      <link>https://tichakorn832.github.io/publication/tan-2022-enhancing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/tan-2022-enhancing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

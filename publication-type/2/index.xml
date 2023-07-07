@@ -5,12 +5,20 @@
     <link>https://tichakorn832.github.io/publication-type/2/</link>
       <atom:link href="https://tichakorn832.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>2</title>
       <link>https://tichakorn832.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Formal Methods for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2023-formal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2023-formal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automata Theory Meets Barrier Certificates: Temporal Logic Verification of Nonlinear Systems</title>

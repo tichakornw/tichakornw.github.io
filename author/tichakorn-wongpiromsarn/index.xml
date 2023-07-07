@@ -5,12 +5,44 @@
     <link>https://tichakorn832.github.io/author/tichakorn-wongpiromsarn/</link>
       <atom:link href="https://tichakorn832.github.io/author/tichakorn-wongpiromsarn/index.xml" rel="self" type="application/rss+xml" />
     <description>Tichakorn Wongpiromsarn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>Tichakorn Wongpiromsarn</title>
       <link>https://tichakorn832.github.io/author/tichakorn-wongpiromsarn/</link>
     </image>
+    
+    <item>
+      <title>Evaluation Metrics for Object Detection for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/badithela-2023-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/badithela-2023-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Methods for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2023-formal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2023-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum Satisfiability in Mission-time Linear Temporal Logic</title>
+      <link>https://tichakorn832.github.io/publication/hariharan-2023-maximum/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/hariharan-2023-maximum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Faulty Assumptions in Heterogeneous Multi-Agent Systems</title>
+      <link>https://tichakorn832.github.io/publication/carr-2023-quantifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/carr-2023-quantifying/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design and Evaluation of Object Classifiers for Probabilistic Decision-Making in Autonomous Systems</title>
@@ -29,18 +61,18 @@
     </item>
     
     <item>
-      <title>Leveraging Classification Metrics for Quantitative System-Level Analysis with Temporal Logic Specifications</title>
-      <link>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</guid>
+      <title>Enhancing System-level Safety in Autonomous Driving via Feedback Learning</title>
+      <link>https://tichakorn832.github.io/publication/tan-2022-enhancing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/tan-2022-enhancing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantifying Faulty Assumptions in Heterogeneous Multi-Agent Systems</title>
-      <link>https://tichakorn832.github.io/publication/carr-2021-quantifying/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://tichakorn832.github.io/publication/carr-2021-quantifying/</guid>
+      <title>Leveraging Classification Metrics for Quantitative System-Level Analysis with Temporal Logic Specifications</title>
+      <link>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/badithela-2021-leveraging/</guid>
       <description></description>
     </item>
     
