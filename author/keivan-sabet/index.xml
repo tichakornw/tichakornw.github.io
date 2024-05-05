@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keivan Sabet | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/keivan-sabet/</link>
+      <atom:link href="https://tichakorn832.github.io/author/keivan-sabet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keivan Sabet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Keivan Sabet</title>
+      <link>https://tichakorn832.github.io/author/keivan-sabet/</link>
+    </image>
+    
+    <item>
+      <title>Parallelized Outlook Graphs for Multi-Objective Optimal Path Planning</title>
+      <link>https://tichakorn832.github.io/publication/sabet-2024-parallelized/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/sabet-2024-parallelized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

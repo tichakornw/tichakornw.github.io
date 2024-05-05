@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Kallmann | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/marcelo-kallmann/</link>
+      <atom:link href="https://tichakorn832.github.io/author/marcelo-kallmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcelo Kallmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Marcelo Kallmann</title>
+      <link>https://tichakorn832.github.io/author/marcelo-kallmann/</link>
+    </image>
+    
+    <item>
+      <title>Locally Homotopic Paths: Ensuring Consistent Paths in Hierarchical Path Planning</title>
+      <link>https://tichakorn832.github.io/publication/wongpiromsarn-2024-locally/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/wongpiromsarn-2024-locally/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

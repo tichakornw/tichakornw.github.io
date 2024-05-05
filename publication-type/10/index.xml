@@ -5,12 +5,20 @@
     <link>https://tichakorn832.github.io/publication-type/10/</link>
       <atom:link href="https://tichakorn832.github.io/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
     <description>10</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>10</title>
       <link>https://tichakorn832.github.io/publication-type/10/</link>
     </image>
+    
+    <item>
+      <title>TRELPy: Toolbox for Task-Relevant Evaluation of Perception</title>
+      <link>https://tichakorn832.github.io/publication/srivastav-2024-trel-py/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/srivastav-2024-trel-py/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluation Metrics for Object Detection for Autonomous Systems</title>

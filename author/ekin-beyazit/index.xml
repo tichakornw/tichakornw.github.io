@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ekin Beyazit | Tichakorn (Nok) Wongpiromsarn</title>
+    <link>https://tichakorn832.github.io/author/ekin-beyazit/</link>
+      <atom:link href="https://tichakorn832.github.io/author/ekin-beyazit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ekin Beyazit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tichakorn832.github.io/img/nok.png</url>
+      <title>Ekin Beyazit</title>
+      <link>https://tichakorn832.github.io/author/ekin-beyazit/</link>
+    </image>
+    
+    <item>
+      <title>GENESIS-RL: GEnerating Natural Edge-cases with Systematic Integration of Safety considerations and Reinforcement Learning</title>
+      <link>https://tichakorn832.github.io/publication/yang-2024-genesis-rl/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/yang-2024-genesis-rl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
