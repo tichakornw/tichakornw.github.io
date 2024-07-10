@@ -1,12 +1,7 @@
 @inproceedings{Badithela:2023:Evaluation,
- abstract = {This paper studies the evaluation of learning-based object detection models in conjunction with model-checking of formal specifications defined on an abstract model of an autonomous system and its environment. In particular, we define two metrics -- \emphproposition-labeled and \emphclass-labeled confusion matrices -- for evaluating object detection, and we incorporate these metrics to compute the satisfaction probability of system-level safety requirements. While confusion matrices have been effective for comparative evaluation of classification and object detection models, our framework fills two key gaps. First, we relate the performance of object detection to formal requirements defined over downstream high-level planning tasks. In particular, we provide empirical results that show that the choice of a good object detection algorithm, with respect to formal requirements on the overall system, significantly depends on the downstream planning and control design. Secondly, unlike the traditional confusion matrix, our metrics account for variations in performance with respect to the distance between the ego and the object being detected. We demonstrate this framework on a car-pedestrian example by computing the satisfaction probabilities for safety requirements formalized in Linear Temporal Logic (LTL).},
- author = {Apurva Badithela and Tichakorn Wongpiromsarn and Richard M. Murray},
- booktitle = {2023 International Conference on Robotics and Automation (ICRA)},
- note = {submitted},
- number = {},
- optpages = {8536-8542},
- title = {Evaluation Metrics for Object Detection for Autonomous Systems},
- volume = {},
- year = {2023}
+  author={Apurva Badithela and Tichakorn Wongpiromsarn and Richard M. Murray},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title={Evaluation Metrics for Object Detection for Autonomous Systems},
+  year={2023},
+  abstract={This paper proposes two new metrics to evaluate learned object detection models that can be leveraged for quantitative system-level analysis via probabilistic model-checking. We define proposition-labeled and distance-parametrized confusion matrices and show that these matrices can be used to compute the probability of the closed-loop system satisfying its system-level specifications expressed in temporal logic. Instead of using object class labels, the proposition-labeled confusion matrix uses atomic propositions relevant to the high-level planning strategy. Furthermore, unlike the traditional confusion matrix, the proposed distance-parametrized confusion matrix accounts for variations in detection performance with respect to the distance between the ego and the object. We empirically show that these evaluation metrics chosen with the context of i) system-level specifications and ii) the planning module lead to a less conservative analysis in comparison to canonical metrics that do not take these into account. We demonstrate this framework on a car-pedestrian example by computing the satisfaction probabilities for safety requirements formalized in Linear Temporal Logic (LTL).},
 }
-

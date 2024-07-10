@@ -5,7 +5,7 @@
     <link>https://tichakorn832.github.io/publication-type/1/</link>
       <atom:link href="https://tichakorn832.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tichakorn832.github.io/img/nok.png</url>
       <title>1</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Impossible Made Possible: Encoding Intractable Specifications via Implied Domain Constraints</title>
+      <title>Maximum Satisfiability in Mission-time Linear Temporal Logic</title>
+      <link>https://tichakorn832.github.io/publication/hariharan-2023-maximum/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/hariharan-2023-maximum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encoding Intractable Specifications via Implied Domain Constraints</title>
       <link>https://tichakorn832.github.io/publication/johannsen-2023-impossible/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/publication/johannsen-2023-impossible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation Metrics for Object Detection for Autonomous Systems</title>
+      <link>https://tichakorn832.github.io/publication/badithela-2023-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/badithela-2023-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Faulty Assumptions in Heterogeneous Multi-Agent Systems</title>
+      <link>https://tichakorn832.github.io/publication/carr-2023-quantifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tichakorn832.github.io/publication/carr-2023-quantifying/</guid>
       <description></description>
     </item>
     
@@ -87,7 +111,7 @@
     <item>
       <title>Hierarchical Multiobjective Shortest Path Problems</title>
       <link>https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://tichakorn832.github.io/publication/slutsky-2020-hierarchical/</guid>
       <description></description>
     </item>
